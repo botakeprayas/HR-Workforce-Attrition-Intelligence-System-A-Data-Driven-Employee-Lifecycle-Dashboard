@@ -4,6 +4,7 @@ The company is experiencing increasing employee attrition and uneven workforce d
 ## Data Overview
 The dataset contains employee information such as demographics, job role, department, salary, satisfaction score, performance rating, experience, and attrition status. It supports detailed analysis of retention, engagement, and workforce trends.
 ## Dataset Use
+<a href = "https://raw.githubusercontent.com/botakeprayas/HR-Attrition-Workforce-Insights-Dashboard/refs/heads/main/hr_dataset.csv " >Dataset </a>
 
 ## Project Description
 The dashboard analyzes employee data using Tableau to track workforce distribution, satisfaction, performance, salaries, and attrition patterns. It enables HR to make data-driven decisions to enhance employee retention and workplace productivity.
