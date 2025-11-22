@@ -31,7 +31,7 @@ How does salary influence attrition?
 
 Which job roles need urgent hiring?
 ## Dashboard
-![HR Attrition Dashboard](https://raw.githubusercontent.com/botakeprayas/HR-Attrition-Workforce-Insights-Dashboard/main/dashboard.png)
+![image alt](https://github.com/botakeprayas/HR-Attrition-Workforce-Insights-Dashboard/blob/ec80fc39bb753890b278f358b9fb5a6567bca4e7/dasboard.png)
 
 ## Conclusion
 The dashboard reveals that attrition is higher in departments with lower satisfaction and lower compensation. Remote work shows slightly better satisfaction than on-site work. These insights help the company strengthen retention programs, optimize hiring, and improve employee engagement and performance.
